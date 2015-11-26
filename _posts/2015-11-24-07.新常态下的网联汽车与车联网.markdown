@@ -1,0 +1,37 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议07 新常态下的网联汽车与车联网"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/07.%E6%96%B0%E5%B8%B8%E6%80%81%E4%B8%8B%E7%9A%84%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E4%B8%8E%E8%BD%A6%E8%81%94%E7%BD%91.m4a
+duration: 00:20:09 
+length: 9928342
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+ - 中移物联网有限公司
+
+公司的战略定位:
+ - 物联网业务服务的支撑者
+ - 专用芯片和模组的提供者
+ - 物联网专用产品的推动者
+
+面向车联网行业,我们能提供什么帮助 
+
+多种制式通信接入: 
+ - 全面支持2G/3G
+ - 支持LTE (2014年9月)
+
+一点拿卡,全网服务,灵活计费
+ - 全网统一受理,缴费,售后服务
+
+
+高性能的设备器件
+ - 普通SIM形态机器卡
+ - 贴片式机器卡
+

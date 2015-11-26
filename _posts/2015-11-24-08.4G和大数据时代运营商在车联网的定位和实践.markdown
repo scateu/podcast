@@ -1,0 +1,48 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议08 4G和大数据时代运营商在车联网的定位和实践"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/08.4G%E5%92%8C%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%E8%BF%90%E8%90%A5%E5%95%86%E5%9C%A8%E8%BD%A6%E8%81%94%E7%BD%91%E7%9A%84%E5%AE%9A%E4%BD%8D%E5%92%8C%E5%AE%9E%E8%B7%B5.m4a
+duration: 00:15:30
+length: 7642688
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+ - 黄晓彬 总监   中国电信交通行业应用信息化（上海）基地
+
+速率以及并发容量多一个数量及的移动互联网
+
+ - 4G最大速度为300Mbps(LTE+)，速度提升100多倍
+ - 单载扇平均接入用户数为200-300个，容量提升约为10倍
+ - 上网时延平均为100ms，时延减小20多倍
+
+
+ - DSRC/ETC
+ - Celluar: CMMB/CTTB
+ - NFC
+ - LF/UHF
+
+
+ - 动态导航和3D路面信息收集
+ - DTS在线音频
+ - 国内视频影像上传
+ - 远程OTA
+ - 车载WIFI
+ - 用户生理数据上传
+
+
+企业希望用OBD盒子采数据，做为回报，给用户提供了上网流量。
+如果用户用的过快，把整个流量耗尽，那么数据就没办法继续采了。
+运营商需要做一些配置，把流量进行区分计费。
+
+上海电信: 南京路踩踏事件之后，开始大数据。
+三个运营商的数据都要通报市政府。
+
+对小区的人流量进行分析 
+

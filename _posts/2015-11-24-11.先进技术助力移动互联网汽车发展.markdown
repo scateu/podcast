@@ -1,0 +1,84 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议11 先进技术助力移动互联网汽车发展"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/11.%E5%85%88%E8%BF%9B%E6%8A%80%E6%9C%AF%E5%8A%A9%E5%8A%9B%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E6%B1%BD%E8%BD%A6%E5%8F%91%E5%B1%95.m4a
+duration: 00:23:21
+length: 11521690
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+ - 高通无线通信技术(中国)有限公司  李俨
+
+**eCall: 车出故障之后主动报警**
+
+In-Vehicle Emergency Call
+ - save people's live in road accident
+
+救援人员不能直接赶到现场
+
+欧盟在2005年开始研究eCall:一种车载的紧急救援方案
+
+欧洲2018年上市汽车都要安装eCall
+
+俄罗斯 ?e2Glonass
+
+**What is eCall?**
+
+油料 历史轨迹 等等信息，让救援人员尽快知道车的位置
+140字节 MSD 组包
+eCall在通信开始的时候，先Mute住，把MSD编成适合语音信道传输的调制方式，进行传输
+2-4秒
+可以把救援的时间缩短到分钟
+
+In-Band
+
+**Next-Gen eCall Architecture**
+
+Based on IMS emergency voice calls in 3GPP Rel-9 plus enhancements expected in the Rel-14 timeframe for NG eCall.
+
+**China Emergency Rescue System (E-Call)**
+
+都认识到了紧急救援的重要性
+
+
+**Qualcomm Vision: Advanced driver assistance systems (ADAS)**
+
+Computer Vision and Sensor fusion + V2X communication
+
+Ultrasonic sensors/
+
+前方提示红绿灯，是否有左转车辆，加油站，餐厅
+
+主动式安全
+
+避免事故的发生
+
+
+
+美国 2013 年做了实验  车与车间通信
+
+802.11p(北美称为DSRC)
+
+美国在2016年年初立法要求所有车辆都安装DSRC
+
+
+RAN R14:
+PC5
+
+**Key Consideration: Availability of Spectrum**
+
+Safety communications must be delivered via common spectrum.
+
+所有运营商如移动联通电信的V2V都在统一的频谱下通信
+
+**5GHz ITS Spectrum**
+
+在5850-5925MHz这一段来用
+

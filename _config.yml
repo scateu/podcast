@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Tunight - 金枪鱼之夜
-brand: Tunight Podcast
-email: scateu@gmail.com
-owner: TUNA
-author: TUNA
-copyright: Tsinghua University TUNA Association
-description: 金枪鱼之夜
+title: ScateuCast
+brand: ScateuCast
+email: i@scateu.me
+owner: Scateu
+author: Scateu
+copyright: Scateu
+description: Scateu Podcast
 baseurl: "" # the subpath of your site, e.g. /blog
 category: Technology
 permalink: "/podcast/:year/:month/:title/"
 
-url: "https://podcast.tuna.moe" # the base hostname & protocol for your site
-default_thumb: "https://podcast.tuna.moe/assets/img/tuna.png"
+url: "https://podcast.scateu.me" # the base hostname & protocol for your site
+default_thumb: "http://podcast.scateu.me/assets/img/kang.png"
 
 # Build settings
 markdown: kramdown
@@ -26,4 +26,4 @@ markdown: kramdown
 sass:
     sass_dir: assets/css
 
-about: "清华大学 TUNA 协会原名清华大学学生网管会，其前身为清华大学电脑协会，是由清华大学网络技术和开源软件爱好者、技术宅组成的团体。"
+about: "Scateu的录音博客"

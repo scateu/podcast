@@ -1,0 +1,18 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议16 智能汽车的技术、标准和测试评价"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/16.%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%8A%80%E6%9C%AF%E3%80%81%E6%A0%87%E5%87%86%E5%92%8C%E6%B5%8B%E8%AF%95%E8%AF%84%E4%BB%B7.m4a
+duration: 00:25:56
+length: 12769458
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+中国汽车工程研究院 甘海云 博士
+

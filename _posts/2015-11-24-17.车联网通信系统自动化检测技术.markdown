@@ -1,0 +1,19 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议17 车联网通信系统自动化检测技术"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/17.%E8%BD%A6%E8%81%94%E7%BD%91%E9%80%9A%E4%BF%A1%E7%B3%BB%E7%BB%9F%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF.m4a
+duration: 00:13:26 
+length: 6615325
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://podcast-files.scateu.me/chongqing-car/OBD-Test-CATR.jpg
+---
+中国信通院西部分院
+
+向罗勇 主任

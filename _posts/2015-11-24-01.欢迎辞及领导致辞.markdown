@@ -1,0 +1,49 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议01 欢迎辞及领导致辞"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/01.%E6%AC%A2%E8%BF%8E%E8%BE%9E%E5%8F%8A%E9%A2%86%E5%AF%BC%E8%87%B4%E8%BE%9E.m4a
+duration: 01:19:55
+length: 39262638
+subtitle: 
+mediatype: "audio/mpeg"
+thumb: http://podcast-files.scateu.me/chongqing-car/TOC1.jpg
+---
+
+**主持人:何桂立**
+
+
+中国信息通信研究院
+TC11主席
+
+自动驾驶
+
+芯片 操作系统 智能终端 
+
+CAN总线 开放标准
+
+
+**工信部科技司:钱处长**
+
+
+**标准处:徐鹏处长**
+
+工信部三管: 政策 规划 标准
+
+"中国智造2025"
+
+标准化需求
+
+行业标准随时立项, 按季度进行受理, 一年四批.
+
+1. 随着通信行业的发展, 想要做好互联网标准的顶层设计
+
+
+**重庆电信管理局的领导**
+
+力帆 长安

@@ -1,0 +1,83 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议12 智能汽车的安全威胁与防御体系"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/12.%E6%99%BA%E8%83%BD%E6%B1%BD%E8%BD%A6%E7%9A%84%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81%E4%B8%8E%E9%98%B2%E5%BE%A1%E4%BD%93%E7%B3%BB.m4a
+duration: 00:21:21
+length: 10531636
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://podcast-files.scateu.me/chongqing-car/VisualThreat.jpg
+---
+
+Visual Threat 公司
+
+ - 车联网安全现况
+ - 汽车攻击演变史
+ - 攻击方式与总结
+ - ...
+
+
+Connected = Vulnerability
+
+ - 2013年之前按年，2014年按月，2015年汽车攻击几乎是按星期
+ - 电动车，高档车，低中档车，无一幸免
+ - 攻击技术门槛低
+
+美联航: 车座底下的接入了飞机上的网络系统 也用了CAN Bus
+
+CAN Bus: 80年代就已经成熟了的技术，成本低，速度快
+
+
+**2015年: 车联网安全元年**
+
+BlackHat  克莱斯勒被罚款
+
+
+**智能互联汽车的攻击入口**
+
+OBD2端口或者WiFi/Bluetooth
+
+
+**中美对比**
+
+ - SPY Car Act: Security and Privacy in Your Car Act
+ - "National Highway Traffic Safety Administration (NHTSA) and the Federal Trade Commission (FTC) to establish federal standards that will secure today's connected car" - Forbes
+
+
+《2014-15年车联网安全研究报告》
+
+**美国SPY CAR ACT安全产品标准解读**
+
+ - 每个汽车电子系统入口都可能成为黑客攻击入口，全部要部署安全产品
+ - 安全评估包括 1)安全漏洞评估 2)攻防测试
+ - 汽车数据保护: 汽车电子系统收集的汽车数据都要进行保护，防止非法读取
+ - 攻击防御要求: 检测 报警  攻击阻断
+ - 2年后生成的汽车销售前要经过安全和隐私泄露检测
+ - 验收标准: Cyber dashboard
+
+**Visual Threat 车联网安全测试服务**
+
+从2013年开始，帮助IVI, TBOX设备厂商，租车公司等发现不同安全漏洞
+ - CEO邮箱泄漏: 车主身份证，信用卡等
+
+**Visual Threat 车联网安全防御体系**
+
+Telematics 安全防护云
+
+"FUSE"
+ - Firewall
+ - Umbrella Policy
+ - Security-Over-The-Air
+ - Event Intelligence
+
+
+车载防火墙保护 CAN Bus/ECU
+安全策略灵活部署 适用任何车型
+云平台: 秒级预警
+

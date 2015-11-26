@@ -1,0 +1,87 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议09 LTE-V最新进展介绍"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/09.LTE-V%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E4%BB%8B%E7%BB%8D.m4a
+duration: 00:17:23
+length: 8568647
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+ - 华为技术有限公司  金辉
+ - hui.jin@huawei.com
+
+## LTE-V 基本概念
+
+车相关的通信管道的演进
+
+1. 有线、无线的路边设备通信
+2. 2G/3G/4G Cellular
+3. 802.11p LTE-V
+4. 未来技术
+
+
+智能交通: ITS
+
+IoV 分为广域的Telematics和面向视距的V2X
+
+ITS-V2X应用场景: 
+
+ - 提供车车通信，给车安装了耳朵和眼睛
+  - 拥堵通报
+  - 刹车通报
+  - 救护车通报
+  - 并线提醒
+ - 车与交通设施通信
+  - 红绿灯
+  - 限速牌
+  - 道路维修
+ - 车与人通信
+  - 防止车开门撞到骑自行车的行人
+
+MIT认为V2V是2015年科技十大突破之一
+做这个工作可以减少事故率，挽救人命
+
+**802.11p/DSRC**
+
+802.11p  wifi-based DSRC: 车车通信，车与网络通信 
+车先发给RSU(RoadSide Unit)，再发给网络
+大量的RSU由谁来部署还不清晰
+Telematics:
+V2V/V2I
+
+**LTE-V 进展**
+
+ - 清华 车路协同
+ - 长安汽车
+ 
+
+TC5WG3: 基于LTE网络的车联网无线通信系统总体技术要求
+TC5WC3  基于TD-LTE的车辆安全短程通信技术研究
+TC5WG8  智能交通车车/车路主动安全应用的频率需求和相关干扰共存研究
+V2X频谱工作
+
+C-ITS 中国智能交通产业联盟
+
+
+
+V2V当前在3GPP的共识
+
+ - 最大绝对速度: 160km/h
+ - 相对: 280km/h
+ - 最大消息大小: 1200bytes
+ - 典型消息大小: 50-300bytes
+ - 最大时延: 100ms
+ - 通信范围: 4s响应时间
+ - 最大消息传输频率: 10Hz
+
+
+
+预计LTE-V在2016年可以出第一个可商用的版本
+

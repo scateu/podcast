@@ -24,6 +24,10 @@ layout: default
         <a href="{{slide.url}}"> {{ slide.name | default: "点此下载" }} </a>
         {% endfor %}</p>
       {%endif%}
+      {% if page.media %}
+        <p><strong>媒体文件: </strong>
+        <a href="{{page.media}}"> 点此下载 </a>
+      {%endif%}
       <div class="post-content"> 
         {% if page.thumb %}
         <div class="row">

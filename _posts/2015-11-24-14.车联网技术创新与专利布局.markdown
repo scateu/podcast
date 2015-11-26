@@ -1,0 +1,25 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议14 车联网技术创新与专利布局"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/14.%E8%BD%A6%E8%81%94%E7%BD%91%E6%8A%80%E6%9C%AF%E5%88%9B%E6%96%B0%E4%B8%8E%E4%B8%93%E5%88%A9%E5%B8%83%E5%B1%80.m4a
+duration: 00:29:22
+length: 14457759
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+中国俼院技术与标准所知识产权中心
+
+张俊霞 副主任
+
+
+日美中占车联网专利的大头
+
+
+NTT Docomo 申请了一半以上是导航相关的专利

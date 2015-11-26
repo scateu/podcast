@@ -1,0 +1,51 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议04 移动互联网汽车信息安全与标准"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/04.%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E6%B1%BD%E8%BD%A6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8.m4a
+duration: 00:14:31
+length: 7064396
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+ - 方强 阿里巴巴
+
+互联网汽车信息安全
+
+DSRC
+NFC近场支付
+
+QNX 安卓 云OS
+
+CAN / LAN 
+
+自动驾驶
+
+ - 自主式: 激光雷达 摄像头
+ - 协同式: DSRC LTE-V GPS
+
+
+攻击手段
+
+ - 汽车云服务
+ - 伪基站
+ - 近场通信
+ - WIFI BT
+ - USB
+ - 拆车
+ - T-BOX电路
+
+ECU远程刷新
+
+ - 一车一加密
+ 
+
+互联网汽车安全标准化考量
+
+

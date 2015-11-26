@@ -1,0 +1,41 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议13 移动互联网汽车标准化考虑"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/13.%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E6%B1%BD%E8%BD%A6%E6%A0%87%E5%87%86%E5%8C%96%E8%80%83%E8%99%91.m4a
+duration: 00:21:15 
+length: 10465644
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://podcast-files.scateu.me/chongqing-car/TOC2.jpg
+---
+
+夏骆辉  中国信通院泰尔系统实验室
+
+CCC Car Connectivity Consortium 
+
+Autosar (AUTomotive Open System Architecture)
+AVNU (AVnu Alliance)
+
+车载信息服务产业联盟(TIAA)
+车联网产业技术创新战略联盟(IOVA)
+中国智能交通产业联盟(C-ITS)
+
+移动互联网+汽车
+
+ - 汽车
+  - 发改委:汽车产业管理，项目审批，产业协调，重大专项推广应用
+  - 工信部:汽车行业管理，标准管理
+  - 公安部:汽车注册管理，驾驶员管理，交通安全管理
+ - 设施
+  - 交通部:交通设施规划、建设、施工监理
+  - 住建部
+
+
+手机与车机互联的工作
+

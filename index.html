@@ -23,7 +23,7 @@ permalink: /
             <div class="post-meta">
               <i class="fa fa-calendar"></i> <strong>时间</strong>: {{post.date | date: "%Y-%-m-%-d"}}
             </div>
-            {{ post.content }}
+                {{ post.content | truncatewords:50 | strip_html }}
             <p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p>
           </div>
           {% if post.thumb %}

@@ -1,0 +1,28 @@
+---
+layout:  post
+title: "#移动互联网汽车重庆会议10 移动互联网汽车信息安全"
+categories:
+    - podcast
+tags:
+    - chongqing-car
+author: scateu
+date: 2015-11-24
+media: http://podcast-files.scateu.me/chongqing-car/10.%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E6%B1%BD%E8%BD%A6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8.m4a
+duration: 00:21:37 
+length: 10651551
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+ - 李伟华
+ - 中兴通讯服务有限公司
+
+OBD盒子
+
+通用OnStar
+丰田G-Book
+
+车联网的SoLoMo特性: Social Location Mobile
+
+车载自动诊断系统
+
