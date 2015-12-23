@@ -1,0 +1,19 @@
+---
+layout:  post
+title: "清华民乐2015 #08 瑶族舞曲"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/8-%E7%91%B6%E6%97%8F%E8%88%9E%E6%9B%B2.m4a
+duration: 00:07:10
+length: 6879765
+subtitle: 
+mediatype: "audio/mpeg"
+thumb: http://podcast-files.scateu.me/2015-12-20-thumyd/thumyd-all-all.jpg
+---
+
+刘铁山 茅沅 作曲
+彭修文 改编

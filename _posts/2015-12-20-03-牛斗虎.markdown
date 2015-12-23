@@ -1,0 +1,20 @@
+---
+layout:  post
+title: "清华民乐2015 #03 牛斗虎"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/3-%E7%89%9B%E6%96%97%E8%99%8E.m4a
+duration: 00:05:10
+length: 4938164
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://podcast-files.scateu.me/2015-12-20-thumyd/thumyd-niu-dou-hu.jpg
+---
+
+绛州鼓乐
+
+李伟杰 范昱希

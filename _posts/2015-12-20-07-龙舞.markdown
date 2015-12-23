@@ -1,0 +1,18 @@
+---
+layout:  post
+title: "清华民乐2015 #07 龙舞"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/7-%E9%BE%99%E8%88%9E.m4a
+duration: 00:14:04
+length: 13701656
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://fmn.rrimg.com/fmn075/20151222/1755/original_JTf1_27c8000b60711e7f.jpg 
+---
+
+徐昌俊 作曲

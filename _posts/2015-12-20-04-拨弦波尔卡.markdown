@@ -1,0 +1,17 @@
+---
+layout:  post
+title: "清华民乐2015 #04 拨弦波尔卡"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/4-%E6%8B%A8%E5%BC%A6%E6%B3%A2%E5%B0%94%E5%8D%A1.m4a
+duration: 00:03:06
+length: http://podcast-files.scateu.me/2015-12-20-thumyd/4-%E6%8B%A8%E5%BC%A6%E6%B3%A2%E5%B0%94%E5%8D%A1.m4a
+subtitle:
+mediatype: "audio/mpeg"
+---
+
+约翰.斯特劳斯  约瑟夫.斯特劳斯 作曲

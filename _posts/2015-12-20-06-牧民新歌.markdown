@@ -1,0 +1,20 @@
+---
+layout:  post
+title: "清华民乐2015 #06 牧民新歌"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/6-%E7%89%A7%E6%B0%91%E6%96%B0%E6%AD%8C.m4a
+duration: 00:04:42
+length: 4557961
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://fmn.rrimg.com/fmn076/20151222/1755/original_cup3_9a04000383e51e83.jpg
+---
+
+简广易 作曲
+
+笛子独奏 范宣子

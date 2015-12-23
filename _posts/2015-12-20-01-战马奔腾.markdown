@@ -1,0 +1,18 @@
+---
+layout:  post
+title: "清华民乐2015 #01 战马奔腾"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/1-%E6%88%98%E9%A9%AC%E5%A5%94%E8%85%BE.m4a
+duration: 00:03:51
+length: 3751270
+subtitle:
+thumb: http://fmn.rrimg.com/fmn073/20151222/1755/large_V8va_5dde000758841e84.jpg
+mediatype: "audio/mpeg"
+---
+
+陈耀星作曲

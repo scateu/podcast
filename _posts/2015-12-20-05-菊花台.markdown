@@ -1,0 +1,21 @@
+---
+layout:  post
+title: "清华民乐2015 #05 菊花台"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/5-%E8%8F%8A%E8%8A%B1%E5%8F%B0.m4a
+duration: 00:05:55
+length: 5646817
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://fmn.rrfmn.com/fmn078/20151222/1755/original_fJ0V_1b5e000383d51e80.jpg
+---
+
+陈燮阳 改编配器
+
+二胡 李依怡
+大提琴 王译

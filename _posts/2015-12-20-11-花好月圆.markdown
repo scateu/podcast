@@ -1,0 +1,17 @@
+---
+layout:  post
+title: "清华民乐2015 #11 花好月圆"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/11-%E8%BF%94%E5%9C%BA-%E5%BD%93%E5%BD%93%E6%BB%B4%E5%BD%93%E6%BB%B4%E5%91%94%E6%BB%B4%E5%BD%93%E6%BB%B4%E5%91%94%E5%91%94.m4a
+duration: 00:03:51
+length: 3751270
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://fmn.rrimg.com/fmn075/20151222/1800/original_Wxth_97ef000384311e83.jpg
+---
+

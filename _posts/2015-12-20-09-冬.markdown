@@ -1,0 +1,18 @@
+---
+layout:  post
+title: "清华民乐2015 #09 冬"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/9-%E5%86%AC.m4a
+duration: 00:13:35
+length: 13009819
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://podcast-files.scateu.me/2015-12-20-thumyd/thumyd-all.jpg
+---
+
+卢亮辉 作曲 

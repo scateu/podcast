@@ -1,0 +1,16 @@
+---
+layout:  post
+title: "清华民乐2015 #12 结束"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/12-%E7%BB%93%E6%9D%9F%E8%87%B4%E8%AF%8D.m4a
+duration: 00:00:52
+length: 850013
+subtitle:
+mediatype: "audio/mpeg"
+---
+

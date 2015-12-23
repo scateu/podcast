@@ -1,0 +1,22 @@
+---
+layout:  post
+title: "清华民乐2015 #02 春江花月夜"
+categories:
+    - podcast
+tags:
+    - thumyd
+author: scateu
+date: 2015-12-20
+media: http://podcast-files.scateu.me/2015-12-20-thumyd/2-%E6%98%A5%E6%B1%9F%E8%8A%B1%E6%9C%88%E5%A4%9C.m4a
+duration: 00:07:06
+length: 6811991
+subtitle:
+mediatype: "audio/mpeg"
+thumb: http://fmn.xnpic.com/fmn072/20151222/1755/original_uMtU_9a04000383e41e83.jpg
+---
+
+古曲
+邱大成 改编
+
+古筝 胡耘畅
+琵琶 董芳含
